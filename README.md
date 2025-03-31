@@ -1,12 +1,12 @@
 # Credit Risk Modelling
 
-[![Live App](https://img.shields.io/badge/Live_App-Click_Here-blue)](https://creditrisk-modelling.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live_App-Click_Here-blue)](https://credi--trisk--modelling.streamlit.app/)
 
 ## 📌 Overview
 Credit risk modeling is essential for financial institutions to assess a borrower's likelihood of defaulting on a loan. This project provides a data-driven approach to credit risk assessment using machine learning techniques.
 
 ## 🚀 Live Demo
-Experience the live application here: [Credit Risk Modelling](https://creditrisk-modelling.streamlit.app/)
+Experience the live application here: [Credit Risk Modelling](https://credit--risk--modelling.streamlit.app/)
 
 ## 📂 Project Structure
 ```
