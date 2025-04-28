@@ -109,6 +109,9 @@ The best-performing model (XGBoost) achieved:
 - **Precision**: 78%
 - **Recall**: 94%
 - **F1-Score**: 83%
+- **ROC-AUC Score**: 98%
+
+The model provides a balanced assessment of credit risk, minimizing false positives and negatives effectively.
 
 ## 🤝 Contributing
 
@@ -118,9 +121,6 @@ If you have suggestions for improvements, feel free to open an issue or submit a
 ## 🙋‍♂️ About
 
 Hii, I am Oshin! Created with 💙 to demonstrate finance & NBFC domain knowledge along with machine learning skills.
-- **ROC-AUC Score**: 98%
-
-The model provides a balanced assessment of credit risk, minimizing false positives and negatives effectively.
 
 ---
 
