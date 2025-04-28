@@ -118,7 +118,7 @@ The model provides a balanced assessment of credit risk, minimizing false positi
 Contributions are welcome!  
 If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## 🙋‍♂️ About
+## 🙋‍♂️ About Me
 
 Hii, I am Oshin! Created with 💙 to demonstrate finance & NBFC domain knowledge along with machine learning skills.
 
